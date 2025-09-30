@@ -29,18 +29,12 @@ days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30
 # List of broader keywords
 
 keywords = [
-    "Ancient Civilizations",
-    "World History Events",
-    "Famous Historical Figures",
-    "Medieval History",
-    "Renaissance History",
-    "World War I History",
-    "World War II History",
-    "Historical Battles",
-    "Revolutionary History",
-    "American History",
-    "Indian History",
-    
+    "Historical Mysteries",
+    "Ancient Mysteries",
+    "Unsolved Historical Events",
+    "Lost Civilizations",
+    "Mystery of Ancient Egypt",
+    "Pyramids Secrets",
 ]
 
 

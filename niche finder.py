@@ -31,8 +31,6 @@ days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30
 keywords = [
 "Sleep ASMR",
 "Relaxing ASMR Sounds",
-"Whisper ASMR",
-"Tapping ASMR",
 "Eating ASMR",
 ]
 

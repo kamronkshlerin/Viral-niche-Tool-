@@ -29,12 +29,17 @@ days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30
 # List of broader keywords
 
 keywords = [
-    "Historical Mysteries",
-    "Ancient Mysteries",
-    "Unsolved Historical Events",
-    "Lost Civilizations",
-    "Mystery of Ancient Egypt",
-    "Pyramids Secrets",
+"Sleep ASMR",
+"Relaxing ASMR Sounds",
+"Whisper ASMR",
+"Tapping ASMR",
+"Eating ASMR",
+"Roleplay ASMR",
+"Personal Attention ASMR",
+"Nature Sounds ASMR",
+"Meditation ASMR",
+"Study ASMR Sounds",
+
 ]
 
 

@@ -34,12 +34,6 @@ keywords = [
 "Whisper ASMR",
 "Tapping ASMR",
 "Eating ASMR",
-"Roleplay ASMR",
-"Personal Attention ASMR",
-"Nature Sounds ASMR",
-"Meditation ASMR",
-"Study ASMR Sounds",
-
 ]
 
 
